@@ -78,5 +78,5 @@ To elevate this project from descriptive analytics to predictive machine learnin
    ```
    *Open `notebooks/ipl_analysis.ipynb` and execute the cells sequentially.*
 
-## License
+
 
